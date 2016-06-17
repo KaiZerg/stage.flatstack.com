@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.flatstack.com/</loc>
+  <lastmod>2015-03-02T13:03:03+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.flatstack.com/story/</loc>
+  <lastmod>2015-03-02T13:03:03+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.flatstack.com/projects/</loc>
+  <lastmod>2015-03-02T13:03:03+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://www.flatstack.com/careers/</loc>
+  <lastmod>2015-03-02T13:03:03+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://www.flatstack.com/contact/</loc>
+  <lastmod>2015-03-02T13:03:03+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.flatstack.com/rubyonrails/</loc>
+  <lastmod>2015-03-02T13:03:03+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.flatstack.com/mobile-development/</loc>
+  <lastmod>2015-03-02T13:03:03+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.flatstack.com/design/</loc>
+  <lastmod>2015-03-02T13:03:03+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+</urlset>
